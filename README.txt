@@ -1,4 +1,4 @@
-# README for Group G/Team D-07 - Surviving Smith
+# README for Group G/Team D-07 - The Smith Trail
 
 ## Team Information
 Team Members:  
@@ -9,7 +9,7 @@ Team Members:
 *All participated in debugging code
 
 ## Project Overview
-Surviving Smith is a simpler remake of the Oregon Trail game, set at a haunted Smith College. Players navigate through various haunted houses on campus, attempting to survive ghostly encounters. The goal is to make it through all events while achieving the highest score.
+The Smith Trail is a simpler remake of the Oregon Trail game, set at a haunted Smith College. Players navigate through various haunted houses on campus, attempting to survive ghostly encounters. The goal is to make it through all events while achieving the highest score.
 
 ---
 
@@ -110,3 +110,4 @@ A file that stores top 10 scoring players' names and scores.
 
 5. Exiting the Game:
    - Ends the game and takes your score. 
+
